@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Diving on Frühling demo</title>
+    <link>http://localhost:8000/tags/diving/</link>
+    <description>Recent content in Diving on Frühling demo</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 31 Dec 2023 01:01:01 +0100</lastBuildDate>
+    <atom:link href="http://localhost:8000/tags/diving/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Diving on Salusa Secundus</title>
+      <link>http://localhost:8000/gallery/2023/diving/</link>
+      <pubDate>Sun, 31 Dec 2023 01:01:01 +0100</pubDate>
+      <guid>http://localhost:8000/gallery/2023/diving/</guid>
+      <description>OIG.0bGU8muNip8a2Kg5_YcX.jpg;Lorem ipsum dolor sit amet, consectetur adipiscing elit. OIG.0z7lPiyHS2XumyKYnv0s.jpg;Vivamus non facilisis ligula, eu fringilla turpis dapibus ac. OIG.FjNE6sA0.DjEThLMBpYk.jpg;Nulla fermentum sem vel purus fringilla efficitur. OIG.JXPaPwKHks8O2o5z1JDU.jpg;In cursus leo eu ligula viverra molestie, at sollicitudin nec sem.</description>
+    </item>
+  </channel>
+</rss>

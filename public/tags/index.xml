@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Frühling demo</title>
+    <link>http://localhost:8000/tags/</link>
+    <description>Recent content in Tags on Frühling demo</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 10 Jan 2024 04:01:01 +0100</lastBuildDate>
+    <atom:link href="http://localhost:8000/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2024</title>
+      <link>http://localhost:8000/tags/2024/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:8000/tags/2024/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Work</title>
+      <link>http://localhost:8000/tags/work/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:8000/tags/work/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Travel</title>
+      <link>http://localhost:8000/tags/travel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:8000/tags/travel/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Volcano</title>
+      <link>http://localhost:8000/tags/volcano/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:8000/tags/volcano/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tucans</title>
+      <link>http://localhost:8000/tags/tucans/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:8000/tags/tucans/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Giedi Prime</title>
+      <link>http://localhost:8000/tags/giedi-prime/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:8000/tags/giedi-prime/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Space</title>
+      <link>http://localhost:8000/tags/space/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:8000/tags/space/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>2023</title>
+      <link>http://localhost:8000/tags/2023/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:8000/tags/2023/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Diving</title>
+      <link>http://localhost:8000/tags/diving/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:8000/tags/diving/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mountains</title>
+      <link>http://localhost:8000/tags/mountains/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:8000/tags/mountains/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

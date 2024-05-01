@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2024 on Frühling demo</title>
+    <link>http://localhost:8000/tags/2024/</link>
+    <description>Recent content in 2024 on Frühling demo</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 10 Jan 2024 04:01:01 +0100</lastBuildDate>
+    <atom:link href="http://localhost:8000/tags/2024/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Example blog entry</title>
+      <link>http://localhost:8000/blog/2024/example-blog/</link>
+      <pubDate>Wed, 10 Jan 2024 04:01:01 +0100</pubDate>
+      <guid>http://localhost:8000/blog/2024/example-blog/</guid>
+      <description>&lt;p&gt;You are on the demo page of the Frühling theme for the static site generator Hugo. Sources of the theme are available here: &lt;a href=&#34;https://github.com/romka/fruhling&#34;&gt;https://github.com/romka/fruhling&lt;/a&gt;. Sources of this demo-site are here: &lt;a href=&#34;https://github.com/romka/fruhling-demo&#34;&gt;https://github.com/romka/fruhling-demo&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;The theme supports all standard Markdown formatting features:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;lists,&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;varied&lt;/strong&gt; &lt;em&gt;styling&lt;/em&gt;,&lt;/li&gt;&#xA;&lt;li&gt;&lt;code&gt;code blocks&lt;/code&gt;,&lt;/li&gt;&#xA;&lt;li&gt;photo galleries as a separate data type,&lt;/li&gt;&#xA;&lt;li&gt;and 2 types of galleries embedded within other content.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Example note</title>
+      <link>http://localhost:8000/note/2024/example-note/</link>
+      <pubDate>Thu, 04 Jan 2024 04:01:01 +0100</pubDate>
+      <guid>http://localhost:8000/note/2024/example-note/</guid>
+      <description>&lt;p&gt;This is an example of a &lt;code&gt;note&lt;/code&gt; content type, it&amp;rsquo;s supposed to be a short message without a &amp;ldquo;read more&amp;rdquo; link.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Volcano trip 2024 — example of a &#34;gallery&#34; content type</title>
+      <link>http://localhost:8000/gallery/2024/volcano-trip/</link>
+      <pubDate>Wed, 03 Jan 2024 01:01:01 +0100</pubDate>
+      <guid>http://localhost:8000/gallery/2024/volcano-trip/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tucans — example of a &#34;story&#34; content type</title>
+      <link>http://localhost:8000/story/2024/tucans/</link>
+      <pubDate>Tue, 02 Jan 2024 02:02:02 +0100</pubDate>
+      <guid>http://localhost:8000/story/2024/tucans/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Trip to Giedi Prime in January 2024</title>
+      <link>http://localhost:8000/gallery/2024/space-travel/</link>
+      <pubDate>Mon, 01 Jan 2024 01:01:01 +0100</pubDate>
+      <guid>http://localhost:8000/gallery/2024/space-travel/</guid>
+      <description>OIG.0JrjIbR9MQxnuib8TDwh.jpg;Amazing view OIG.5fRTDPx0.IXlqCX4m6Qs.jpg;Dunes OIG.6ReqxRfU_.vxRqj7hd1R.jpg;Reading a book on a coast OIG.8xJieTa4l80jL7S8CO0..jpg;Enjoying the Sun OIG.3uB5TqBf5DAmEKZLfe2.jpg; OIG.c_8pQMG7Xia3yiz2EE.y.jpg; OIG.CiPR52TI4XTD1nUgV.c.jpg; OIG.KdNr792mWl1ZoGkEkv.F.jpg; OIG.nShRWENzVTSxZHbbZ8SF.jpg; OIG.pp6R7SayQ1HPlZUcios4.jpg; OIG.q4.91oN3K7HdT..A4D3O.jpg; OIG.rDtjv2bWnoBsI_LGViSD.jpg; OIG.rkXu1jqXfkjXMif_v69W.jpg; OIG.Rw7ZRToUBeL0Aq18S2PC.jpg; OIG.uIGrhx.0p.ny47SCyNIz.jpg; OIG.V40FjYDncd3UzJOIjyJL.jpg;</description>
+    </item>
+  </channel>
+</rss>

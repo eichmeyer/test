@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Туканы on Frühling демо</title>
+    <link>http://localhost:8000/ru/tags/%D1%82%D1%83%D0%BA%D0%B0%D0%BD%D1%8B/</link>
+    <description>Recent content in Туканы on Frühling демо</description>
+    <generator>Hugo</generator>
+    <language>ru</language>
+    <lastBuildDate>Tue, 02 Jan 2024 02:02:02 +0100</lastBuildDate>
+    <atom:link href="http://localhost:8000/ru/tags/%D1%82%D1%83%D0%BA%D0%B0%D0%BD%D1%8B/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Туканы — пример типа контента &#34;история&#34;</title>
+      <link>http://localhost:8000/ru/story/2024/tucans/</link>
+      <pubDate>Tue, 02 Jan 2024 02:02:02 +0100</pubDate>
+      <guid>http://localhost:8000/ru/story/2024/tucans/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Frühling demo</title>
+    <link>http://localhost:8000/blog/</link>
+    <description>Recent content in Blogs on Frühling demo</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 10 Jan 2024 04:01:01 +0100</lastBuildDate>
+    <atom:link href="http://localhost:8000/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Example blog entry</title>
+      <link>http://localhost:8000/blog/2024/example-blog/</link>
+      <pubDate>Wed, 10 Jan 2024 04:01:01 +0100</pubDate>
+      <guid>http://localhost:8000/blog/2024/example-blog/</guid>
+      <description>&lt;p&gt;You are on the demo page of the Frühling theme for the static site generator Hugo. Sources of the theme are available here: &lt;a href=&#34;https://github.com/romka/fruhling&#34;&gt;https://github.com/romka/fruhling&lt;/a&gt;. Sources of this demo-site are here: &lt;a href=&#34;https://github.com/romka/fruhling-demo&#34;&gt;https://github.com/romka/fruhling-demo&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;The theme supports all standard Markdown formatting features:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;lists,&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;varied&lt;/strong&gt; &lt;em&gt;styling&lt;/em&gt;,&lt;/li&gt;&#xA;&lt;li&gt;&lt;code&gt;code blocks&lt;/code&gt;,&lt;/li&gt;&#xA;&lt;li&gt;photo galleries as a separate data type,&lt;/li&gt;&#xA;&lt;li&gt;and 2 types of galleries embedded within other content.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

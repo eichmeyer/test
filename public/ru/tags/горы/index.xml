@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Горы on Frühling демо</title>
+    <link>http://localhost:8000/ru/tags/%D0%B3%D0%BE%D1%80%D1%8B/</link>
+    <description>Recent content in Горы on Frühling демо</description>
+    <generator>Hugo</generator>
+    <language>ru</language>
+    <lastBuildDate>Fri, 01 Dec 2023 01:01:01 +0100</lastBuildDate>
+    <atom:link href="http://localhost:8000/ru/tags/%D0%B3%D0%BE%D1%80%D1%8B/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Восход в горах</title>
+      <link>http://localhost:8000/ru/gallery/2023/sunrise/</link>
+      <pubDate>Fri, 01 Dec 2023 01:01:01 +0100</pubDate>
+      <guid>http://localhost:8000/ru/gallery/2023/sunrise/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

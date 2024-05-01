@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2023 on Frühling демо</title>
+    <link>http://localhost:8000/ru/tags/2023/</link>
+    <description>Recent content in 2023 on Frühling демо</description>
+    <generator>Hugo</generator>
+    <language>ru</language>
+    <lastBuildDate>Sun, 31 Dec 2023 01:01:01 +0100</lastBuildDate>
+    <atom:link href="http://localhost:8000/ru/tags/2023/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Дайвинг на Salusa Secundus</title>
+      <link>http://localhost:8000/ru/gallery/2023/diving/</link>
+      <pubDate>Sun, 31 Dec 2023 01:01:01 +0100</pubDate>
+      <guid>http://localhost:8000/ru/gallery/2023/diving/</guid>
+      <description>OIG.0bGU8muNip8a2Kg5_YcX.jpg;Лорем ипсум долор сит амет, консектетур адиписцинг елит. OIG.0z7lPiyHS2XumyKYnv0s.jpg;Вивамус нон фачилисис лигула, еу фрингилла турпис дапибус ац. OIG.FjNE6sA0.DjEThLMBpYk.jpg;Нулла ферментум сем вель пурус фрингилла еффицитур. OIG.JXPaPwKHks8O2o5z1JDU.jpg;Ин цурсус лео еу лигула виверра молестие, ац соллицитудин нец сем.</description>
+    </item>
+    <item>
+      <title>Восход в горах</title>
+      <link>http://localhost:8000/ru/gallery/2023/sunrise/</link>
+      <pubDate>Fri, 01 Dec 2023 01:01:01 +0100</pubDate>
+      <guid>http://localhost:8000/ru/gallery/2023/sunrise/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
